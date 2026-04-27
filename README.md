@@ -167,13 +167,6 @@ timeline
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br/>
         <sub>code-sankalp</sub>
       </a>
-    </td>
-    <td align="center">
-      <a href="mailto:sankalpsatpute56@gmail.com">
-        <img src="https://img.shields.io/badge/Hire_Me-A855F7?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Me" /><br/>
-        <sub>Open to Opportunities</sub>
-      </a>
-    </td>
   </tr>
 </table>
 
@@ -202,7 +195,6 @@ timeline
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
