@@ -9,13 +9,7 @@ Hi, I'm **Sankalp Satpute** – an aspiring Data Scientist with a passion for tu
 ![](https://streak-stats.demolab.com/?user=code-sankalp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=code-sankalp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=code-sankalp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=code-sankalp&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=code-sankalp&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
